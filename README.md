@@ -1,10 +1,9 @@
 ## Introduction
-This python script is a game where the player need to find a number between 1 and 10 in 5 chances.
+Le but de ce mini-jeu en Python est de trouver un nombre entre 1 et 10 en 5 essais maximum. 
 
-## Requirements
+## Prérequis
 -[Python 3.8](https://www.python.org/downloads/)
 
-## How to use it
-1. Install Python3 on your computer.
-2. Execute the python program.
-3. Enjoy !
+## Comment jouer
+1. Installer Python sur votre ordinateur en utilisant le lien au-dessus
+2. Lancer le programme
